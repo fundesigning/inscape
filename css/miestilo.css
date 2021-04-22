@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box; padding: 0;
+}
+body{
+    background-color: whitesmoke;;
+}
+.cverde{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    height:100%;
+    width: 100%;
+}
+.cajaroja{
+    background-color: whitesmoke;
+    width: 100%;
+    height:100%;
+}
+.cajanaranja{
+    background-color: whitesmoke;
+    width: 100%;
+    height:100%;
+}
+.cajavioleta{
+    background-color: whitesmoke;
+    width: 100%;
+    height:100%;
+}
+.cajaverdeosc{
+    background-color: whitesmoke;
+    width: 100%;
+    height:100%;
+    
+}
+h2{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 60px;
+    color: white;
+}
+.container-fluid{
+    height: 100%;
+    width: 100%;
+}
+p{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 14px;
+    color: white;
+    float: right;
+}
+.in {
+    padding-top: 1em;
+}
+.caja2 {
+    padding-top: 1em;
+}
