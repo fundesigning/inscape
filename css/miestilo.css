@@ -100,18 +100,18 @@ h3{
 #spn3{
     top: 14px;
 }
-#menu {
+#btn-menu {
     display: none;
 }
-#menu:checked ~ .lbl-menu #spn1 {
+#btn-menu:checked ~ .lbl-menu #spn1 {
     transform: rotate(140deg);
     top: 10px;
     background-color: red;
 }
-#menu:checked ~ .lbl-menu #spn2 {
+#btn-menu:checked ~ .lbl-menu #spn2 {
     opacity: 0;
 }
-#menu:checked ~ .lbl-menu #spn3 {
+#btn-menu:checked ~ .lbl-menu #spn3 {
     transform: rotate(-140deg);
     top: 10px;
     background-color: red;
